@@ -1,1 +1,1 @@
-## ML-6th-Sem
+## ML-6th-Sem-Practicals
